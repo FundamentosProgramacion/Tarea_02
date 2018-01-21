@@ -1,7 +1,5 @@
-#encoding: UTF-8
-
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
-
-# A partir de aquí escribe tu programa
-
+Total=int(input("Cuál es el costo total de la comida"))
+Propina=Total*0.13
+IVA=Total*0.15
+TotalPagar=Propina+IVA+Total
+print("Propina: $%.02f"%Propina,"\nIVA: $%.02f"%IVA,"\nTotal a pagar: $%.02f"%TotalPagar)

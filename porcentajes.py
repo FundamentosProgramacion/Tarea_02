@@ -1,7 +1,6 @@
-#encoding: UTF-8
-
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
-
-# A partir de aquí escribe tu programa
-
+mujeres=int(input("Cuál es el número de mujeres inscritas?"))
+hombres=int(input("Cuál es el número de hombres inscritos?"))
+TotalAlumnos=mujeres+hombres
+PorcentajeMujeres=(mujeres*100)/TotalAlumnos
+PorcentajeHombres=(hombres*100)/TotalAlumnos
+print("Total inscritos: %.02f"%TotalAlumnos,"\nPorcentaje mujeres:  %.02f%%"%PorcentajeMujeres,"\nPorcentaje hombres:  %.02f%%"%PorcentajeHombres)
