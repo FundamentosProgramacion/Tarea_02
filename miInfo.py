@@ -10,6 +10,7 @@
 # Salida: Información personal para una Introducción
 # Relación E/S: No hay debido a que no hay una entrada
 
+
 #----------------------------------------------------------------------------------------------------------------------
 
 print("-Nombre:")

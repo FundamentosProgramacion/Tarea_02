@@ -10,6 +10,7 @@
 # Salida: Aprximado de la velocidad en cada uno de los casos y el tiempo en el tercer caso
 # relación E/S: Cálculo de la velocidad, tiempo, y distancia
 
+
 #----------------------------------------------------------------------------------------------------------------------
 
 

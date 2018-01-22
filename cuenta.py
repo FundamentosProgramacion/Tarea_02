@@ -10,6 +10,7 @@
 # Salida: Total de la cuenta con el IVA y la propina
 # Relación E/S: el calculo del cubtotal para obtener el IVA y la propina
 
+
 #----------------------------------------------------------------------------------------------------------------------
 
 subT = float(input("Subtotal de la cuenta: "))

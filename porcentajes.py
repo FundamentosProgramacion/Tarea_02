@@ -10,6 +10,7 @@
 # Salida: Número total de alumnos, porcentaje de hombres y mujeres
 # Relación E/S: Fórmula para el porcentaje de niño/as en el salón, suma de ambos sexos para dar el total de alumnos
 
+
 #----------------------------------------------------------------------------------------------------------------------
 
 hom = int(input("Hombres en el salón: "))
