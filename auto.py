@@ -1,7 +1,13 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Fernando Sebastian Silva Miramontes, A01746925
+# Descripcion: Calculos derivados de la velocidad bajo ciertos parametros
 
-# A partir de aquí escribe tu programa
 
+vel= input("Cual es su velocidad?\n")
+distEn7 = float(vel)*7
+distEn4 = float(vel)*4.5
+timeEn437 = 437.0/float(vel)
+print ("Tu distancia recorrida en 7hrs. es: "+str(distEn7)+" Km." )
+print ("Tu distancia recorrida en 4.5hrs. es: "+str(distEn4)+" Km." )
+print ("437 Km. se recorren en: "+str(timeEn437)+" Hrs." )
