@@ -1,5 +1,4 @@
 #encoding: UTF-8
-
 # Autor: Fernando Sebastian Silva Miramontes, A01746925
 # Descripcion: Calculos derivados de la velocidad bajo ciertos parametros
 
