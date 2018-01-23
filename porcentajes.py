@@ -1,7 +1,13 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Fernando Sebastian Silva Miramontes, A01746925
+# Descripcion: Calcular porcentaje de hombres y mujeres de una poblacion estudiantil
 
-# A partir de aquí escribe tu programa
-
+numDeM = float(input("Cuantas mujeres hay?\n"))
+numDeH = float(input("Cuantos hombres hay?\n"))
+total = numDeH+numDeM
+porcDeM = numDeM/total *100
+porcDeH = numDeH/total *100
+print("Hay "+str(total)+" estudiantes inscritos")
+print("El "+str(porcDeM)+"% son mujeres")
+print("El "+str(porcDeH)+"% son hombres")
