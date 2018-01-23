@@ -1,7 +1,18 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Mirna Fernanda Zertuche Calvillo, A01373852
+# Descripcion: Calcular el total de alumnos más porcentaje de hombres y de mujeres inscritos.
 
-# A partir de aquí escribe tu programa
+Mujeres= int(input("Mujeres inscritas:" ))
+Hombres= int(input("Hombres inscritos:" ))
+Total= Mujeres+Hombres
+Pmujeres= float((Mujeres*100)/Total)
+Phombres= float((Hombres*100)/Total)
+
+print("Total de inscritos:", Total)
+print("Porcentaje de mujeres:%.1f"% Pmujeres,"%")
+print("Porcentaje de hombres:%.1f"% Phombres,"%")
+
+
+
 
