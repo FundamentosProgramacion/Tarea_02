@@ -1,4 +1,3 @@
-#encoding: UTF-8
 # Autor:Fernando Sebastian Silva Miramontes, A01746925
 # Descripcion: Caclular el costo total de una comida que incluya la propina y el IVA
 
