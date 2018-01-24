@@ -1,6 +1,6 @@
 #encoding: UTF-8
 
-# Autor: Andrés Reyes Rangel
+# Autor: Andrés Reyes Rangel, A01746592
 # Descripcion: Imprimir mi información.
 # A partir de aquí escribe tu programa
 
