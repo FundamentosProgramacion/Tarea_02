@@ -1,8 +1,16 @@
-#encoding: UTF-8
+#encoding: Phyton
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Guillermo Adrian Urbina Aguiñiga, A01746645
+# Descripcion: Este prograda da mi información
 
-# A partir de aquí escribe tu programa
 
-print("rmr")
+print("Nombre:")
+print("Guillermo Adrian Urbina Aguiñiga")
+print("Matricula:")
+print("A01746645")
+print("Carrera:")
+print("ISC")
+print("Escuela de procedencia:")
+print("CUDEC")
+print("Descripción:")
+print("Soy practicante de TaeKwonDo y me gustan los videojuegos aparte de que mis cosas favoritas son en las que me divierto y la computanción")
