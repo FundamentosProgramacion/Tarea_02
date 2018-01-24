@@ -1,7 +1,16 @@
-#encoding: UTF-8
+#encoding: Phyton
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Guillermo Adrian Urbina Aguiñiga, A01746645
+# Descripcion: Este programa te dice el IVA, Propina y cuenta a pagar 
 
-# A partir de aquí escribe tu programa
+Cuenta = int(input("Teclea tu cuenta: "))
+ 
+Propina = Cuenta * .13
+IVA = Cuenta * .15
+Total = Propina + IVA + Cuenta
+
+print("Propina= "format(Propina,".2"))
+print("IVA= "format(IVA,".2"))
+print("Total= "format(Total,".2"))
+             
 
