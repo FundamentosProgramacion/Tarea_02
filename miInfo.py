@@ -1,8 +1,17 @@
-#encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: David Medina Medina A01653311
+# Descripcion: Imprimir información del alumno
 
-# A partir de aquí escribe tu programa
 
-print("rmr")
+print("""Nombre:
+David Medina Medina
+Matricula:
+A01653311
+Carrera:
+Ingeniero en sistemas digitles y robotica
+Escuela de procedencia:
+Universidad Insurgentes
+Acerca de mi:
+Me gusta hacer deporte, reunirme con familia y amigos, jugar videojuegos, 
+Tengo habilidades en aprender, paracticar deporte de los cuales mis favoritos son fronton a mano,
+tenis y squash, no tengo libros preferidos y me gusta mucho viajar, mi país favorito Alemania.""")
