@@ -1,7 +1,8 @@
-#encoding: UTF-8
-
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
-
-# A partir de aquí escribe tu programa
-
+nhombres = input("Numero de hombres inscritos:")
+nmujeres = input("Numero de mujeres inscritas:")
+total = int (nhombres) + int (nmujeres)
+porcentajeh = (100 / total) * int (nhombres)
+porcentajem = (100 / total) * int (nmujeres)
+print("Total de inscritos:", total, "personas")
+print("Porcentaje de hombres:", porcentajeh, "%")
+print("Porcentaje de mujeres:", porcentajem, "%")
