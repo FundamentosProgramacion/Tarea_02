@@ -1,7 +1,14 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Karla Fabiola Ramirez Martinez
+# Descripcion: Un programa que pueda calcular el IVA y la propina para de esta manera imprimir el total a pagar
 
-# A partir de aquí escribe tu programa
+comida= int(input("Dime el total de la comida: "))
+iva=comida*0.15
+propina=comida*0.13
+total=propina+iva+comida
+print ("Propina: ",propina)
+print("IVA: ",iva )
+print ("Total a pagar: ",total)
+
 
